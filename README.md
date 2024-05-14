@@ -9,18 +9,4 @@
 </p>
 
 
- <a href="https://www.instagram.com/rishavdevkrr/" target="_blank">
-  <img align="left" alt="Jony's Instagram" width="40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png" />
-</a>
-<a href="https://www.linkedin.com/in/rishavdevkr/">
-  <img align="left" alt="Jony's Linkedin" width="40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" />
-</a>
-<a href="https://twitter.com/rishavdevkr">
-  <img align="left" alt="Jony's Twitter" width="40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png" />
-</a>
-<a href="https://open.spotify.com/user/31cl7trdf4lx6z452vxh3xcyyoga">
-  <img align="left" alt="Jony's Spotify" width="40px" src="https://user-images.githubusercontent.com/74784363/132524968-f8d6f1d7-ff49-4ecb-bc15-1c681d63bcce.png" />
-</a>                                                                              
-</br>
-</br>
-</br>
+ 
