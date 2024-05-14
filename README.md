@@ -8,7 +8,7 @@
 </p>
 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
+<p align="center"><img src="https://github.com/CrazyMindd/CrazyMindd/assets/158000808/9264e6d9-77f5-46f1-bbf9-ff3db03de91b.gif" alt="Bt">
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=This+is+CrazyMindd;+This+is+official+;github+account+Bro;)](https://git.io/typing-svg)
 
