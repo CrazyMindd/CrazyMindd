@@ -13,3 +13,14 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=This+is+CrazyMindd;+This+is+official+;github+account+Bro;)](https://git.io/typing-svg)
 
  
+- 👋 Hi, I’m Crazy Mind
+- 👀 I’m interested in learning python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me 
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+CrazyMindd/CrazyMindd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
